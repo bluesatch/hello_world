@@ -6,3 +6,5 @@ I am married with two children. Sort of like the Bundy's.
 My favorite ice cream is cookies n cream.
 
 This is my commit message to show all of my changes.
+
+I'm doing more edits. I think I got it now. 
